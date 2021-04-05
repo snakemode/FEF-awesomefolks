@@ -3,4 +3,6 @@
 a list of the best people
 
 - Jen Looper
-  \*Jyoti
+- Jyoti
+- Jaeriah Tay
+
