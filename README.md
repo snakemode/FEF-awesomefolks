@@ -12,3 +12,4 @@ a list of the best people
 * Atomic Fox - Mónica Fidalgo
 * Jyoti
 * Jaeriah Tay
+* Jo Franchetti
