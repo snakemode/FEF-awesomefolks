@@ -2,8 +2,9 @@
 
 a list of the best people
 
-- Macarena Jiménez 🦊
 - Jen Looper
+- Victoria Akpan
+- Macarena Jiménez 🦊
 - Atomic Fox - Mónica Fidalgo
 - Jyoti
 - Jaeriah Tay
