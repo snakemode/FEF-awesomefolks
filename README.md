@@ -3,6 +3,7 @@
 a list of the best people
 
 * Jen Looper
+* Johanna
 * Favour Chibueze
 * Beatriz Pascual
 * Julia Undeutsch
