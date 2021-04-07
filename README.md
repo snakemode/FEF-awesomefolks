@@ -13,3 +13,4 @@ a list of the best people
 * Jyoti
 * Jaeriah Tay
 * Jo Franchetti
+* Eliza Spiridon 🍓
